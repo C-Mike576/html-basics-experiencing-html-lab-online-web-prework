@@ -3,3 +3,4 @@
 "Growleth"
 "Gardevoir"
 "Galarian Ponyta"
+"Decidueye"
